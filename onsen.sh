@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/usr/bin/env bash 
 # onsen.sh Ver. 0.8.5 (2013.06.28)
 # recording tool for onsen.ag
 # require openssl, wget and ruby
